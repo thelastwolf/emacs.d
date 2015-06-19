@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/purcell/emacs.d.png?branch=master)](https://travis-ci.org/purcell/emacs.d)
+[![Build Status](https://travis-ci.org/followtheart/emacs.d.png?branch=master)](https://travis-ci.org/followtheart/emacs.d)
 
 # A reasonable Emacs config
 
@@ -42,7 +42,7 @@ To install, clone this repo to `~/.emacs.d`, i.e. ensure that the
 `init.el` contained in this repo ends up at `~/.emacs.d/init.el`:
 
 ```
-git clone https://github.com/purcell/emacs.d.git ~/.emacs.d
+git clone https://github.com/followtheart/emacs.d.git ~/.emacs.d
 ```
 
 Upon starting up Emacs for the first time, further third-party
@@ -94,15 +94,15 @@ You might also want to check out `emacs-starter-kit` and `prelude`.
 If you hit any problems, please first ensure that you are using the latest version
 of this code, and that you have updated your packages to the most recent available
 versions (see "Updates" above). If you still experience problems, go ahead and
-[file an issue on the github project](https://github.com/purcell/emacs.d).
+[file an issue on the github project](https://github.com/followtheart/emacs.d).
 
--Steve Purcell
+-Steve Followtheart
 
 <hr>
 
-[![](http://api.coderwall.com/purcell/endorsecount.png)](http://coderwall.com/purcell)
+[![](http://api.coderwall.com/followtheart/endorsecount.png)](http://coderwall.com/followtheart)
 
-[![](http://www.linkedin.com/img/webpromo/btn_liprofile_blue_80x15.png)](http://uk.linkedin.com/in/stevepurcell)
+[![](http://www.linkedin.com/img/webpromo/btn_liprofile_blue_80x15.png)](http://uk.linkedin.com/in/stevefollowtheart)
 
 [sanityinc.com](http://www.sanityinc.com/)
 
